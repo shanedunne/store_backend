@@ -1,0 +1,17 @@
+<object-stream>
+  <list>
+    <models.SmartBand>
+      <size>large</size>
+      <price>350.0</price>
+      <manufacturerName>whoop</manufacturerName>
+      <material>gold</material>
+      <modelName>wb1</modelName>
+      <id>ab1</id>
+      <batteryLife>30</batteryLife>
+      <colour>blue</colour>
+      <heartRateMonitor>true</heartRateMonitor>
+      <isWaterResistant>false</isWaterResistant>
+      <waterResistanceDepth>10</waterResistanceDepth>
+    </models.SmartBand>
+  </list>
+</object-stream>
