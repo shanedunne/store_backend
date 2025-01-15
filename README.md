@@ -1,6 +1,6 @@
 # Wearable Device Management System
 
-This Java console application provides a menu-driven program to manage different types of wearable devices (Smart Bands, Smart Watches, and Smart Glasses). The main entry point for the application is the `Driver` class, which orchestrates user interaction through a series of menus and submenus.  
+This Java console application provides a menu-driven program to manage a wearable devices store. The main entry point for the application is the `Driver` class, which orchestrates user interaction through a series of menus and submenus.  
 
 ## Features
 
